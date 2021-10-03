@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 
-public class ReversedIndex {
+public class InvertedIndex {
 
 
     private final HashMap<String, List<Document>> idx = new HashMap<>();
